@@ -318,6 +318,10 @@ video {
     .newsletter input[type="email"] {
           width: 200px;
     }
+    .team-member-img {
+    max-width: 200px; /* Adjust the size as needed */
+    height: auto;
+}
 
     .newsletter button {
           padding: 15px 20px;
