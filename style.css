@@ -493,11 +493,7 @@ textarea:focus {
 #media ul {
     list-style: none;
 }
-.team-member-img {
-    width: 100%; 
-    height: auto;
-    max-width: 20px;
-}
+
 
 
 #media ul li {
@@ -508,4 +504,9 @@ textarea:focus {
     .footer .container {
           width: 92% !important;
     }
+    .team-member-img {
+    width: 100%; 
+    height: auto;
+    max-width: 200px;
+}
 }
