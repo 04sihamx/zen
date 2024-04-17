@@ -494,9 +494,11 @@ textarea:focus {
     list-style: none;
 }
 .team-member-img {
-    max-width: 50px; 
+    width: 100%; 
     height: auto;
+    max-width: 200px;
 }
+
 
 #media ul li {
     display: inline-block;
