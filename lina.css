@@ -323,9 +323,11 @@ video {
     .newsletter button {
           padding: 15px 20px;
     }  
+
+}
     .team-member-img {
         width: 100%; 
         height: auto;
         max-width: 200px;
     }
-}
+
