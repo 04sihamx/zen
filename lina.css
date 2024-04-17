@@ -318,11 +318,11 @@ video {
     .newsletter input[type="email"] {
           width: 200px;
     }
-.team-member-img {
-    width: 100%; 
-    height: auto;
-    max-width: 20px;
-}
+    .team-member-img {
+        width: 100%; 
+        height: auto;
+        max-width: 20px;
+    }
 
     .newsletter button {
           padding: 15px 20px;
